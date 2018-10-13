@@ -1,0 +1,4 @@
+#Fri Oct 12 22:07:10 EDT 2018
+base.0=/Users/gabfitzb/Documents/Fall2018/SEG2105 LAB A03/Lab 5/ProductCatalog_v1-master/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

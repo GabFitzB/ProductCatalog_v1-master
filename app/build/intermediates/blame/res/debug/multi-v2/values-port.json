@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/gabfitzb/Documents/Fall2018/SEG2105 LAB A03/Lab 5/ProductCatalog_v1-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/gabfitzb/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/78f2a0974a247b1906f0cf74b88f90f8/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
